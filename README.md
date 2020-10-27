@@ -1,6 +1,7 @@
 # AutoTrade
 Getting information from Binance Exchange connect and making  decision on your behalf and makes trade
 This is the code repository 
+** This is just bold **
 
 ##### What is this project about
 
